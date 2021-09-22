@@ -1,2 +1,2 @@
 # Fun-with-Flags
-Created with CodeSandbox
+A WebApp to find out the country using flags emoji built with ReactJS.
