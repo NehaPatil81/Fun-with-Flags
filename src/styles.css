@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+:root {
+  --faint-color: #fef9f8;
+  --text-color: #ef9273;
+}
+
+body {
+  background: black;
+  font-family: "Roboto", sans-serif;
+  color: var(--text-color);
+}
+.header {
+  text-align: center;
+}
+#user-input {
+  padding: 0.5rem;
+  width: 40%;
+  margin: 0.5rem;
+}
+
+.flags span {
+  margin: 0.5rem;
+}
+.country-name {
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin: 1rem;
+  color: var(--faint-color);
+}
